@@ -35,7 +35,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/style.css",
+              "src/assets/plugins/bootstrap/css/bootstrap.min.css",
+              "src/assets/css/colors/default-dark.css"
             ],
             "scripts": []
           },
@@ -95,11 +98,15 @@
             ],
             "styles": [
               "src/styles.css"
+
             ],
             "scripts": []
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "de7f5894-56de-4c3e-8cfc-ce42959fa520"
   }
 }
